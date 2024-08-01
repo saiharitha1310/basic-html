@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Honk&display=swap');
+body{
+    text-align: center;
+    background-color:lightseagreen ;
+    
+}
+
+h3{
+    color: rgb(202, 20, 60);
+    font-family: 'Diphylleia', serif;
+}
+p{
+    color:rgb(187, 3, 33);
+    font-family: 'Diphylleia', serif;
+}

@@ -1,0 +1,14 @@
+h3{
+    color: #fc0345;
+}
+
+p{
+    color:rgb(3, 252, 219);
+}
+.screen{
+    height: 400px;
+    width: 500px;
+    background-color: pink;
+    text-align: right;
+
+}
